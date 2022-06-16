@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/pedroanastacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00C781&icon_color=00C781&border_radius=0&title_color=00C781&text_color=c9c9c9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=dark&border_color=00C781&border_radius=0&title_color=00C781&text_color=c9c9c9""/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
