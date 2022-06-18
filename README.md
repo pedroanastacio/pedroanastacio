@@ -1,7 +1,6 @@
 ### Hello, I'm Pedro Anastácio 👋
 
-- 🔭 I’m currently working as FullStack JS 
-- 🌱 I’m currently learning NextJS
+🔭 I’m currently working as FullStack JS 
 
 <div align="center">
   <a href="https://github.com/pedroanastacio">
