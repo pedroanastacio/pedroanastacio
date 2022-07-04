@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro Anastácio 👋
 
-🔭 I’m currently working as FullStack JS 
+🔭 I am currently working as a FullStack Typescript Developer
 
 <div align="center">
   <a href="https://github.com/pedroanastacio">
