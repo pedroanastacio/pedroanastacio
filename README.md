@@ -9,8 +9,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Pedro-Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+  <img align="center" alt="Pedro-Node" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Pedro-Next" height="30" width="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
   <img align="center" alt="Pedro-PostgreSQL" height="30" width="35" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
