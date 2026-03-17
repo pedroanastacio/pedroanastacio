@@ -13,33 +13,45 @@
   <h2>🚀 My Projects</h2>
 
   <h3>Coffee Delivery</h3>
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/193153407-bc97cda2-8582-4816-a2da-ee089dd7cad5.mp4" />
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/193150761-d995fc3c-8455-4072-8d0f-79f6e1704f08.mp4" />
+  
+  https://user-images.githubusercontent.com/45208073/193153407-bc97cda2-8582-4816-a2da-ee089dd7cad5.mp4
+  
+  https://user-images.githubusercontent.com/45208073/193150761-d995fc3c-8455-4072-8d0f-79f6e1704f08.mp4
     
 
   <h3>Ignite Shop</h3>
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/197339589-c9d83390-cb25-4e8b-90bb-b3da3a478931.mp4" />
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/197339595-5a575dda-dcd6-4722-99ae-08bb176edc0d.mp4" />
+  
+  https://user-images.githubusercontent.com/45208073/197339589-c9d83390-cb25-4e8b-90bb-b3da3a478931.mp4
+  
+  https://user-images.githubusercontent.com/45208073/197339595-5a575dda-dcd6-4722-99ae-08bb176edc0d.mp4
 
 
   <h3>GitHub Blog</h3>
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/195071233-fe618a21-01b5-4dab-a36a-47f9deccb5c8.mp4" />
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/195071260-4fefd810-0586-4494-8a2f-fec5acc7765c.mp4" />
+  
+  https://user-images.githubusercontent.com/45208073/195071233-fe618a21-01b5-4dab-a36a-47f9deccb5c8.mp4
+  
+  https://user-images.githubusercontent.com/45208073/195071260-4fefd810-0586-4494-8a2f-fec5acc7765c.mp4
 
   <h3>DT Money</h3>
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/193827841-33cee3d4-1bbd-49de-b8e4-99e119c3054e.mp4" />
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/193827865-b96790ce-3374-46c3-93d9-4a8b9c153d8b.mp4" />
+  
+  https://user-images.githubusercontent.com/45208073/193827841-33cee3d4-1bbd-49de-b8e4-99e119c3054e.mp4
+  
+  https://user-images.githubusercontent.com/45208073/193827865-b96790ce-3374-46c3-93d9-4a8b9c153d8b.mp4
 
   <h3>Ignite Feed</h3>
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/188520970-4ef5f50f-4bd9-48be-890b-8ad0cf6297f5.mp4" />
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/188520005-67f1367a-948a-4dc2-9841-cc134ec3f4d8.mp4" />
+  
+  https://user-images.githubusercontent.com/45208073/188520970-4ef5f50f-4bd9-48be-890b-8ad0cf6297f5.mp4
+  
+  https://user-images.githubusercontent.com/45208073/188520005-67f1367a-948a-4dc2-9841-cc134ec3f4d8.mp4
 
   <h3>Grocery</h3>
   <img width="100%" src="https://user-images.githubusercontent.com/45208073/179073997-19cabf2a-872e-4c50-9c1b-aa196b6010eb.gif" />
   <img width="100%" src="https://user-images.githubusercontent.com/45208073/179074168-27638430-b2a3-4b86-87a9-b1ce6cff7864.gif" />
 
   <h3>Ignite Timer</h3>
-  <img width="100%" src="https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-9150-17b3ab83d035.mp4" />
+  
+  https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-9150-17b3ab83d035.mp4
+  
 </div>
 
 <div style="display: inline_block">
