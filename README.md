@@ -3,26 +3,37 @@
 <div>
   <h2>🙋🏻‍♂️ About me</h2>
   <p>I am a Full Stack Developer driven by a passion for continuous learning and improvement. I enjoy transforming challenges into high-quality products while collaborating with teams and learning from others along the way.</p>
-  <a href = "mailto:pedro.anastacio013@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
-  </a>
-  <a href="https://www.linkedin.com/in/pedrohranastacio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
+  <div align="center">
+    <a href = "mailto:pedro.anastacio013@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+    </a>
+    <a href="https://www.linkedin.com/in/pedrohranastacio/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a> 
+  </div>
 </div>
 
 <div>
   <h2>📊 Stats</h2>
+  <div align="center">
   <a href="https://github.com/pedroanastacio"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=141322&icon_color=F0D90F&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=radical&border_color=141322&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedroanastacio/pedroanastacio/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+     <img alt="snake eating my github contributions" src="https://raw.githubusercontent.com/pedroanastacio/pedroanastacio/output/github-contribution-grid-snake.svg" />
+  </picture>
+  </div>
 </div>
 
-<div style="display: inline_block">
+<div>
   <h2>🛠️ Tech & Tools</h2>
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux,nestjs,jest,vite,figma,html,css,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
+  <div align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux">
+    <img src="https://skillicons.dev/icons?i=nestjs,jest,vite,figma,html,css,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
+  </div>
 </div>  
 
 <div>
