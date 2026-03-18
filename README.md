@@ -16,6 +16,7 @@
   <a href="https://github.com/pedroanastacio"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=141322&icon_color=F0D90F&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=radical&border_color=141322&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedroanastacio/pedroanastacio/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div style="display: inline_block">
