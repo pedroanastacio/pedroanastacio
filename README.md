@@ -56,19 +56,8 @@
 
 <div style="display: inline_block">
   <h2>🛠️ Tech & Tools</h2>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Next" height="30" width="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="35" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://staging.svgrepo.com/show/331488/mongodb.svg"> 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="30" src="https://www.svgrepo.com/show/333609/tailwind-css.svg"> 
-  <img align="center" alt="NestJS" height="30" width="45" src="https://www.svgrepo.com/show/354107/nestjs.svg"> 
-  <img align="center" alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg">
-  <img align="center" alt="GitHub" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux,nestjs,jest,vite,figma,html,css,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
 </div>
 
 <div>
