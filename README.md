@@ -1,13 +1,28 @@
 <h1 align=center>Hi, I'm Pedro Anastácio 👋</h1>
 
-<h2>🙋🏻‍♂️ About me</h2>
-<p>I am a Full Stack Developer driven by a passion for continuous learning and improvement. I enjoy transforming challenges into high-quality products while collaborating with teams and learning from others along the way.</p>
+<div>
+  <h2>🙋🏻‍♂️ About me</h2>
+  <p>I am a Full Stack Developer driven by a passion for continuous learning and improvement. I enjoy transforming challenges into high-quality products while collaborating with teams and learning from others along the way.</p>
+  <a href = "mailto:pedro.anastacio013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
+  <a href="https://www.linkedin.com/in/pedrohranastacio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+</div>
 
-<div align="center">
+<div>
+  <h2>📊 Stats</h2>
   <a href="https://github.com/pedroanastacio"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=141322&icon_color=F0D90F&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=radical&border_color=141322&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
 </div>
+
+<div style="display: inline_block">
+  <h2>🛠️ Tech & Tools</h2>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux,nestjs,jest,vite,figma,html,css,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
+</div>  
 
 <div>
   <h2>🚀 My Projects</h2>
@@ -54,15 +69,4 @@
   
 </div>
 
-<div style="display: inline_block">
-  <h2>🛠️ Tech & Tools</h2>
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux,nestjs,jest,vite,figma,html,css,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
-</div>
 
-<div>
-  <h2>💬 Contact me</h2>
-  <a href = "mailto:pedro.anastacio013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrohranastacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
