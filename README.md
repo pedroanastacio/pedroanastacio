@@ -66,7 +66,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tailwind" height="30" width="30" src="https://www.svgrepo.com/show/333609/tailwind-css.svg"> 
-  <img align="center" alt="NestJS" height="30" width="45" src="  https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"> 
+  <img align="center" alt="NestJS" height="30" width="45" src="https://www.svgrepo.com/show/354107/nestjs.svg"> 
   <img align="center" alt="Git" height="30" width="40" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg">
   <img align="center" alt="GitHub" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
 </div>
