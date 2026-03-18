@@ -31,8 +31,8 @@
   <h2>🛠️ Tech & Tools</h2>
   <div align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux">
-    <img src="https://skillicons.dev/icons?i=nestjs,jest,vite,figma,html,css,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux,nestjs">
+    <img src="https://skillicons.dev/icons?i=jest,vite,figma,html,css,arduino,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
   </div>
 </div>  
 
