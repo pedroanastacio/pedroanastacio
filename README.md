@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,postgresql,mongodb,sqlite,firebase,docker,express,mui,tailwind,redux,nestjs">
     <img src="https://skillicons.dev/icons?i=jest,vite,figma,html,css,arduino,git,github,npm,pnpm,yarn,vscode,ubuntu,aws">
   </div>
-</div>  
+</div>
 
 <div>
   <h2>🚀 My Projects</h2>
@@ -44,14 +44,13 @@
   https://user-images.githubusercontent.com/45208073/193153407-bc97cda2-8582-4816-a2da-ee089dd7cad5.mp4
   
   https://user-images.githubusercontent.com/45208073/193150761-d995fc3c-8455-4072-8d0f-79f6e1704f08.mp4
-    
+
 
   <h3>Ignite Shop</h3>
   
   https://user-images.githubusercontent.com/45208073/197339589-c9d83390-cb25-4e8b-90bb-b3da3a478931.mp4
   
   https://user-images.githubusercontent.com/45208073/197339595-5a575dda-dcd6-4722-99ae-08bb176edc0d.mp4
-
 
   <h3>GitHub Blog</h3>
   
@@ -78,7 +77,13 @@
   <h3>Ignite Timer</h3>
   
   https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-9150-17b3ab83d035.mp4
-  
+
+  <h3>Concurso Vendedor CDL</h3>
+
+  <img src="https://i.imgur.com/KPvvLaO.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/F3XC1bG.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/oHvOPm4.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/39xLg00.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/VvNFl8d.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/0u2hxWt.jpeg" width="200em" height="auto"  />
 </div>
-
-
