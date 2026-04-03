@@ -17,8 +17,8 @@
   <h2>📊 Stats</h2>
   <div align="center">
   <a href="https://github.com/pedroanastacio"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=141322&icon_color=F0D90F&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=radical&border_color=141322&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroanastacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=141322&icon_color=F0D90F&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanastacio&layout=compact&langs_count=7&theme=radical&border_color=141322&border_radius=6&title_color=FF2B83&text_color=5DFDF0&bg_color=141322"/> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -44,7 +44,6 @@
   https://user-images.githubusercontent.com/45208073/193153407-bc97cda2-8582-4816-a2da-ee089dd7cad5.mp4
   
   https://user-images.githubusercontent.com/45208073/193150761-d995fc3c-8455-4072-8d0f-79f6e1704f08.mp4
-
 
   <h3>Ignite Shop</h3>
   
