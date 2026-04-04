@@ -39,6 +39,23 @@
 <div>
   <h2>🚀 My Projects</h2>
 
+  <h3>Space X</h3>
+
+  <iframe src="https://www.loom.com/embed/c8b0db08743843a8b83ca546c37f7b86" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width: 100%; max-width: 560px; aspect-ratio: 16/9;"></iframe>
+
+  <h3>Space Flight News</h3>
+
+  <iframe src="https://www.loom.com/embed/e0866982b3e647dabadd53223744ee82" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width: 100%; max-width: 560px; aspect-ratio: 16/9;"></iframe>
+
+  <h3>Concurso Vendedor CDL</h3>
+
+  <img src="https://i.imgur.com/KPvvLaO.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/F3XC1bG.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/oHvOPm4.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/39xLg00.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/VvNFl8d.jpeg" width="200em" height="auto"  />
+  <img src="https://i.imgur.com/0u2hxWt.jpeg" width="200em" height="auto"  />
+
   <h3>Coffee Delivery</h3>
   
   https://user-images.githubusercontent.com/45208073/193153407-bc97cda2-8582-4816-a2da-ee089dd7cad5.mp4
@@ -77,12 +94,4 @@
   
   https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-9150-17b3ab83d035.mp4
 
-  <h3>Concurso Vendedor CDL</h3>
-
-  <img src="https://i.imgur.com/KPvvLaO.jpeg" width="200em" height="auto"  />
-  <img src="https://i.imgur.com/F3XC1bG.jpeg" width="200em" height="auto"  />
-  <img src="https://i.imgur.com/oHvOPm4.jpeg" width="200em" height="auto"  />
-  <img src="https://i.imgur.com/39xLg00.jpeg" width="200em" height="auto"  />
-  <img src="https://i.imgur.com/VvNFl8d.jpeg" width="200em" height="auto"  />
-  <img src="https://i.imgur.com/0u2hxWt.jpeg" width="200em" height="auto"  />
 </div>
