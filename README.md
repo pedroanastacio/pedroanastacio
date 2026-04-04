@@ -41,11 +41,11 @@
 
   <h3>Space X</h3>
 
-[▶️ Watch on Loom](https://www.loom.com/embed/c8b0db08743843a8b83ca546c37f7b86)
+[▶️ Watch demo ↗](https://www.loom.com/embed/c8b0db08743843a8b83ca546c37f7b86)
 
   <h3>Space Flight News</h3>
 
-[▶️ Watch on Loom](https://www.loom.com/embed/e0866982b3e647dabadd53223744ee82)
+[▶️ Watch demo ↗](https://www.loom.com/embed/e0866982b3e647dabadd53223744ee82)
 
   <h3>Concurso Vendedor CDL</h3>
 
