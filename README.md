@@ -43,7 +43,7 @@
 
 <details>
   <summary>
-    <h2>📷 Images</h2>
+    <h4>📷 Images</h4>
   </summary>
   <p float="center">
     <img src="https://i.imgur.com/KPvvLaO.jpeg" width="200em" height="auto"  />
@@ -59,7 +59,7 @@
 
 <details>
   <summary>
-    <h2>📷 Images</h2>
+    <h4>📷 Images</h4>
   </summary>
   <p float="center">
     <img src="https://i.imgur.com/0ph8p7a.png" width="500" />
@@ -119,7 +119,7 @@ https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-
 
 <details>
   <summary>
-    <h2>📷 Images</h2>
+    <h4>📷 Images</h4>
   </summary>
   <h3>🖥️ Desktop</h3>
   <div>
