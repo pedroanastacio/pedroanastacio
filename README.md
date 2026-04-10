@@ -46,12 +46,12 @@
     <h4>📷 Images</h4>
   </summary>
   <p float="center">
-    <img src="https://i.imgur.com/KPvvLaO.jpeg" width="200em" height="auto"  />
-    <img src="https://i.imgur.com/F3XC1bG.jpeg" width="200em" height="auto"  />
-    <img src="https://i.imgur.com/oHvOPm4.jpeg" width="200em" height="auto"  />
-    <img src="https://i.imgur.com/39xLg00.jpeg" width="200em" height="auto"  />
-    <img src="https://i.imgur.com/VvNFl8d.jpeg" width="200em" height="auto"  />
-    <img src="https://i.imgur.com/0u2hxWt.jpeg" width="200em" height="auto"  />      
+    <img src="https://i.imgur.com/KPvvLaO.jpeg" width="200em" height="auto" />
+    <img src="https://i.imgur.com/F3XC1bG.jpeg" width="200em" height="auto" />
+    <img src="https://i.imgur.com/oHvOPm4.jpeg" width="200em" height="auto" />
+    <img src="https://i.imgur.com/39xLg00.jpeg" width="200em" height="auto" />
+    <img src="https://i.imgur.com/VvNFl8d.jpeg" width="200em" height="auto" />
+    <img src="https://i.imgur.com/0u2hxWt.jpeg" width="200em" height="auto" />      
   </p>
 </details>
 
@@ -62,16 +62,16 @@
     <h4>📷 Images</h4>
   </summary>
   <p float="center">
-    <img src="https://i.imgur.com/0ph8p7a.png" width="500" />
-    <img src="https://i.imgur.com/mBB1jWG.png" width="500" />
-    <img src="https://i.imgur.com/4P2bdjC.png" width="500" />
-    <img src="https://i.imgur.com/XwKHHpx.png" width="500" />
-    <img src="https://i.imgur.com/kbP5q8W.png" width="500" />
-    <img src="https://i.imgur.com/L0f2pB1.png" width="500" />
-    <img src="https://i.imgur.com/WcwPhpr.png" width="500" />
-    <img src="https://i.imgur.com/yhB8bkF.png" width="500" />
-    <img src="https://i.imgur.com/qhIOAh7.png" width="500" />
-    <img src="https://i.imgur.com/pP97KR8.png" width="500" />        
+    <img src="https://i.imgur.com/0ph8p7a.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/mBB1jWG.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/4P2bdjC.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/XwKHHpx.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/kbP5q8W.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/L0f2pB1.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/WcwPhpr.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/yhB8bkF.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/qhIOAh7.png" width="500em" height="auto" />
+    <img src="https://i.imgur.com/pP97KR8.png" width="500em" height="auto" />        
   </p>
 </details>
 
@@ -123,16 +123,16 @@ https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-
   </summary>
   <h3>🖥️ Desktop</h3>
   <div>
-    <img src="https://imgur.com/kd0Rif8.png" width="500" />
-    <img src="https://imgur.com/K7OmK2M.png" width="500" />
-    <img src="https://imgur.com/OJZhimd.png" width="500" />
+    <img src="https://imgur.com/kd0Rif8.png" width="500em" height="auto" />
+    <img src="https://imgur.com/K7OmK2M.png" width="500em" height="auto" />
+    <img src="https://imgur.com/OJZhimd.png" width="500em" height="auto" />
   </div>
   <h3>📱 Mobile</h3>
   <div>
-    <img src="https://imgur.com/yY2Cp8D.png" width="200" />  
-    <img src="https://imgur.com/rABbtRD.png" width="200" />
-    <img src="https://imgur.com/nyergud.png" width="200" />
-    <img src="https://imgur.com/9kSKBET.png" width="200" />
+    <img src="https://imgur.com/yY2Cp8D.png" width="200em" height="auto" />  
+    <img src="https://imgur.com/rABbtRD.png" width="200em" height="auto" />
+    <img src="https://imgur.com/nyergud.png" width="200em" height="auto" />
+    <img src="https://imgur.com/9kSKBET.png" width="200em" height="auto" />
   </div>
 </details>
 
