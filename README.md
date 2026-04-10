@@ -64,16 +64,16 @@
 
   <h3>MyMoney</h3>
 
-  <img src="https://i.imgur.com/0ph8p7a.png" width="500em" height="auto"  />
-  <img src="https://i.imgur.com/mBB1jWG.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/4P2bdjC.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/XwKHHpx.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/kbP5q8W.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/L0f2pB1.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/WcwPhpr.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/yhB8bkF.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/qhIOAh7.png" width="500em" height="auto" />
-  <img src="https://i.imgur.com/pP97KR8.png" width="500em" height="auto" />
+  <img src="https://i.imgur.com/0ph8p7a.png" width="400em" height="auto"  />
+  <img src="https://i.imgur.com/mBB1jWG.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/4P2bdjC.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/XwKHHpx.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/kbP5q8W.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/L0f2pB1.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/WcwPhpr.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/yhB8bkF.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/qhIOAh7.png" width="400em" height="auto" />
+  <img src="https://i.imgur.com/pP97KR8.png" width="400em" height="auto" />
 
   <h3>Ignite Shop</h3>
   
